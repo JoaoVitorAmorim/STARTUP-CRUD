@@ -1,0 +1,26 @@
+{
+  "name": "client",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@apollo/react-hooks": "^4.0.0",
+    "@types/react-transition-group": "^4.4.0",
+    "apollo-boost": "^0.4.9",
+    "chart.js": "^2.9.4",
+    "express": "^4.17.1",
+    "graphql": "^15.3.0",
+    "next": "9.5.3",
+    "react": "16.13.1",
+    "react-chartjs-2": "^2.10.0",
+    "react-dom": "16.13.1",
+    "react-svg-radar-chart": "^1.2.0",
+    "react-table-6": "^6.11.0",
+    "react-transition-group": "^4.4.1",
+    "yarn": "^1.22.10"
+  }
+}
