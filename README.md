@@ -72,11 +72,10 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
+   
   </ol>
 </details>
 
@@ -91,9 +90,9 @@ This was my first ever web application, it's not finished (YET).
 
 ### Built With
 
-* [NEXT.JS]()
-* [GRAPH-QL]()
-* [FIREBASE]()
+* [NEXT.JS](www.nextjs.com)
+* [GRAPH-QL](www.graphql.com)
+* [FIREBASE](www.firebase.com)
 
 
 
