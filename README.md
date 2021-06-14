@@ -120,7 +120,7 @@ This is an example of how to list things you need to use the software and how to
    ```
 2. Install YARN packages
    ```sh
-   yarn
+   cd client & yarn, cd server & yarn
    ```
 3. Creat .env file (server/.env)
    ```sh
