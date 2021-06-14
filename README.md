@@ -90,9 +90,9 @@ This was my first ever web application, it's not finished (YET).
 
 ### Built With
 
-* [NEXT.JS](www.nextjs.com)
-* [GRAPH-QL](www.graphql.com)
-* [FIREBASE](www.firebase.com)
+* [NEXT.JS]
+* [GRAPH-QL]
+* [FIREBASE]
 
 
 
