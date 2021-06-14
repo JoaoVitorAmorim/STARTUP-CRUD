@@ -33,7 +33,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/github_username/repo_name">
-    <img src="images/crud.png" alt="Logo" width="800" height="800">
+    <img src="images/crud.png" alt="Logo" width="768" height="406">
   </a>
 
   <h3 align="center">project_title</h3>
