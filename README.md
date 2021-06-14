@@ -87,16 +87,14 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`JoaoVitorAmorim`, `STARTUP-CRUD`, `twitter_handle`, `almeidaamorimjoaovitor@gmail.com`, `StartUp CRUD`, `This is a Simple CRUD build to manage StartUps `
+This was my first ever web application, it's not finished (YET).  
 
 
 ### Built With
 
-* []()
-* []()
-* []()
+* [](NEXT.JS)
+* [](GRAPH-QL)
+* [](FIREBASE)
 
 
 
@@ -112,33 +110,36 @@ This is an example of how to list things you need to use the software and how to
   ```sh
   npm install yarn@latest -g
   ```
-
+* GOOGLE FIREBASE
+  ```sh
+  Creat a firebase account 
+  ```
 ### Installation
 
 1. Clone the repo
    ```sh
    git clone https://github.com/JoaoVitorAmorim/STARTUP-CRUD.git
    ```
-2. Install NPM packages
+2. Install YARN packages
    ```sh
    yarn
    ```
+3. Creat .env file (server/.env)
+   ```sh
+   Creat a PORT & the FireBase Keys
+   ```
+
+### Running
+1. Start NEXT.JS Frontend
+  ```sh
+   cd client, run next dev
+   ```
+2. Start GRAPHQL&Apollo Backend
+  ```sh
+   cd server, run node server.js
+   ```
 
 
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-See the [open issues](https://github.com/JoaoVitorAmorim/STARTUP-CRUD/issues) for a list of proposed features (and known issues).
 
 
 
@@ -158,7 +159,7 @@ Contributions are what make the open source community such an amazing place to b
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the GNU License. See `LICENSE` for more information.
 
 
 
