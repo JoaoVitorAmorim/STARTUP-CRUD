@@ -82,19 +82,18 @@
 
 
 
-<!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+
 
 This was my first ever web application, it's not finished (YET).  
 
 
 ### Built With
 
-* [](NEXT.JS)
-* [](GRAPH-QL)
-* [](FIREBASE)
+* [NEXT.JS]()
+* [GRAPH-QL]()
+* [FIREBASE]()
 
 
 
@@ -172,12 +171,7 @@ Project Link: [https://github.com/JoaoVitorAmorim/STARTUP-CRUD](https://github.c
 
 
 
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
 
-* []()
-* []()
-* []()
 
 
 
