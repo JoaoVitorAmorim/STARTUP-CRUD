@@ -25,7 +25,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/jo%C3%A3o-vitor-almeida-amorim-6b22461b1/]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 
@@ -188,4 +188,4 @@ Project Link: [https://github.com/JoaoVitorAmorim/STARTUP-CRUD](https://github.c
 [license-shield]: https://img.shields.io/github/license/JoaoVitorAmorim/repo.svg?style=for-the-badge
 [license-url]: https://github.com/JoaoVitorAmorim/repo/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/JoaoVitorAmorim
+[linkedin-url]: https://www.linkedin.com/in/jo%C3%A3o-vitor-almeida-amorim-6b22461b1/
