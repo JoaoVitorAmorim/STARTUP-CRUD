@@ -1,6 +1,6 @@
 <!--
 *** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
+*** that would make this better, please fork the STARTUP-CRUD and create a pull request
 *** or simply open an issue with the tag "enhancement".
 *** Thanks again! Now go create something AMAZING! :D
 ***
@@ -113,7 +113,7 @@ This is an example of how to list things you need to use the software and how to
   ```
 ### Installation
 
-1. Clone the repo
+1. Clone the STARTUP-CRUD
    ```sh
    git clone https://github.com/JoaoVitorAmorim/STARTUP-CRUD.git
    ```
@@ -177,15 +177,15 @@ Project Link: [https://github.com/JoaoVitorAmorim/STARTUP-CRUD](https://github.c
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/JoaoVitorAmorim/repo.svg?style=for-the-badge
-[contributors-url]: https://github.com/JoaoVitorAmorim/repo/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/JoaoVitorAmorim/repo.svg?style=for-the-badge
-[forks-url]: https://github.com/JoaoVitorAmorim/repo/network/members
-[stars-shield]: https://img.shields.io/github/stars/JoaoVitorAmorim/repo.svg?style=for-the-badge
-[stars-url]: https://github.com/JoaoVitorAmorim/repo/stargazers
-[issues-shield]: https://img.shields.io/github/issues/JoaoVitorAmorim/repo.svg?style=for-the-badge
-[issues-url]: https://github.com/JoaoVitorAmorim/repo/issues
-[license-shield]: https://img.shields.io/github/license/JoaoVitorAmorim/repo.svg?style=for-the-badge
-[license-url]: https://github.com/JoaoVitorAmorim/repo/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/JoaoVitorAmorim/STARTUP-CRUD.svg?style=for-the-badge
+[contributors-url]: https://github.com/JoaoVitorAmorim/STARTUP-CRUD/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/JoaoVitorAmorim/STARTUP-CRUD.svg?style=for-the-badge
+[forks-url]: https://github.com/JoaoVitorAmorim/STARTUP-CRUD/network/members
+[stars-shield]: https://img.shields.io/github/stars/JoaoVitorAmorim/STARTUP-CRUD.svg?style=for-the-badge
+[stars-url]: https://github.com/JoaoVitorAmorim/STARTUP-CRUD/stargazers
+[issues-shield]: https://img.shields.io/github/issues/JoaoVitorAmorim/STARTUP-CRUD.svg?style=for-the-badge
+[issues-url]: https://github.com/JoaoVitorAmorim/STARTUP-CRUD/issues
+[license-shield]: https://img.shields.io/github/license/JoaoVitorAmorim/STARTUP-CRUD.svg?style=for-the-badge
+[license-url]: https://github.com/JoaoVitorAmorim/STARTUP-CRUD/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/jo%C3%A3o-vitor-almeida-amorim-6b22461b1/
